@@ -1,0 +1,8 @@
+{
+  "name": "Stok Opname F&B Samata (AppSheet Companion & PWA)",
+  "description": "Sistem stok opname bahan baku F&B Cabang Samata terintegrasi Google AppSheet, Google Sheets, dan Gemini AI dengan pembersihan data master, deteksi anomali, input suara & OCR, serta laporan PDF resmi ber-tanda tangan digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
